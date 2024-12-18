@@ -1,1 +1,5 @@
-django == 4.2.15
+django
+python-dotenv
+coreapi
+djangorestframework
+requests
