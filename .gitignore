@@ -1,0 +1,12 @@
+*.pyo
+*.pyc
+*~
+*.cache
+*.log
+.idea
+.env
+config/local_config*
+!config/local_config_sample
+/static/
+requirements/build.txt
+testreports/*
